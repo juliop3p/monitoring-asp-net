@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Locally": {
+    "LocalAPI": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "metrics",

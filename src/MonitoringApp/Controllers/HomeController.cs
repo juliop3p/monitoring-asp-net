@@ -8,7 +8,7 @@ namespace MonitoringApp.Controllers
         [HttpGet]
         public ActionResult<object> Home()
         {
-            return DefaultRespose("<h1>Home</h1>");
+            return DefaultRespose("Home");
         }
     }
 }

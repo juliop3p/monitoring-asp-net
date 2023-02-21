@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using MonitoringApp.Models;
 using System;
 using System.Linq;
 

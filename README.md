@@ -1,4 +1,7 @@
 ## Monitoração com prometheus e grafana
 
-![dash](./content/initial-dash.png)
-![dash](./content/dash-continuation.png)
+![dash](./content/Animação.gif)
+
+### Idéias para metrificar
+
+- [ ] API Running time
